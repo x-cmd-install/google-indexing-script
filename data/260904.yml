@@ -7,7 +7,7 @@ about:
   head: c52c2f8
   archived: false
   latestVersion: v0.4.0
-  collectedAt: 2026-09-04T19:25:36Z
+  collectedAt: 2026-09-04T21:08:00Z
 timeline:
   created: 2024-01-21
   lastCommit: 2024-10-10
@@ -81,5 +81,28 @@ total:
   openIssue: 15
   commit: 118
 ---
+path: /home/runner/.x-repo/github.com/goenning/google-indexing-script
+collectedAt: 2026-09-04T21:08:01Z
+loc:
+  Json:
+    code: 5913
+    comments: 0
+    blanks: 0
+    files: 3
+  TypeScript:
+    code: 549
+    comments: 121
+    blanks: 77
+    files: 10
+  Markdown:
+    code: 0
+    comments: 137
+    blanks: 93
+    files: 3
+total:
+  code: 6503
+  comments: 262
+  blanks: 172
+  files: 16
 ---
 
