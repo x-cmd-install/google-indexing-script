@@ -4,7 +4,7 @@
 
 Script to get your site indexed on Google in less than 48 hours
 
-![google-indexing-script](https://repo.x-cmd.io/google-indexing-script.svg)
+![google-indexing-script](https://repo.x-cmd.io/google-indexing-script.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install google-indexing-script
 
 - **最新版本**: `v0.4.0` (2024-07-08)
 - **最近提交**: 2024-10-10
-- **发布时间**: 2024-07-08T17:45:26Z
 
 ## 流行度
 
-- **Star**: 7,698 · **Fork**: 547 · **开放 issue**: 44 · **贡献者**: 9
+- **Star**: 7,698 · **Fork**: 548 · **开放 issue**: 44 · **贡献者**: 9
 
 ## 累计统计
 
@@ -59,4 +58,4 @@ google-indexing-script 的安装元数据由 [x-cmd/install](https://github.com/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T01:55:59Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:51:17Z._
