@@ -12,6 +12,16 @@ Script to get your site indexed on Google in less than 48 hours
 x install google-indexing-script
 ```
 
+## Code insight
+
+Total: **6,462** lines of code across **16** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 5,913 | 0 | 0 | 3 |
+| TypeScript | 549 | 121 | 77 | 10 |
+| Markdown | 0 | 137 | 93 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/goenning/google-indexing-script>
@@ -35,19 +45,12 @@ x install google-indexing-script
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **6,462** lines of code across **16** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 5,913 | 0 | 0 | 3 |
-| TypeScript | 549 | 121 | 77 | 10 |
-| Markdown | 0 | 137 | 93 | 3 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 0 | 0 | 2 | 4 | 3 | 1 |
 
 ## Improve this data
 
@@ -58,4 +61,4 @@ Install metadata for google-indexing-script lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:51:17Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:25:03Z._
