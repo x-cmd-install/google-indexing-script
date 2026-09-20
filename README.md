@@ -4,7 +4,7 @@
 
 Script to get your site indexed on Google in less than 48 hours
 
-![google-indexing-script](https://repo.x-cmd.io/google-indexing-script.svg)
+[![x-cmd/install — google-indexing-script Code Quality Monitoring Repo Card](https://repo.x-cmd.io/google-indexing-script.svg)](https://x-cmd.com/install/google-indexing-script)
 
 ## Install
 
@@ -35,7 +35,7 @@ Total: **6,462** lines of code across **16** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,705 · **Forks**: 549 · **Open issues**: 44 · **Contributors**: 9
+- **Stars**: 7,706 · **Forks**: 549 · **Open issues**: 44 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **6,462** lines of code across **16** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 0 | 0 | 1 | 3 | 3 | 1 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 0 | 0 | 1 | 3 | 3 | 1 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for google-indexing-script lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T02:01:00Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T02:09:54Z._
