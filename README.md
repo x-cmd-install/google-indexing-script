@@ -35,7 +35,7 @@ Total: **6,462** lines of code across **16** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,709 · **Forks**: 553 · **Open issues**: 44 · **Contributors**: 9
+- **Stars**: 7,711 · **Forks**: 553 · **Open issues**: 44 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **6,462** lines of code across **16** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-17 | 0 | 0 | 1 | 2 | 2 | 0 |
+| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-18 | 0 | 0 | 1 | 2 | 2 | 0 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for google-indexing-script lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T03:08:37Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T03:24:33Z._
